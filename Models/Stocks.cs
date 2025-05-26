@@ -1,8 +1,9 @@
+
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace dotnet.Models
 {
-    public class Stocks
+    public class Stock
     {
         public int Id { get; set; }
 
@@ -22,6 +23,6 @@ namespace dotnet.Models
 
         public DateTime CreatedAt { get; set; } = DateTime.Now;
 
-        public List<Comments> Comments { get; set; } = new List<Comments>();
+        public List<Comment> Comment { get; set; } = new List<Comment>();
     }
 }

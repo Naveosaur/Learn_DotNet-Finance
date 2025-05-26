@@ -1,6 +1,6 @@
 namespace dotnet.Models
 {
-    public class Comments
+    public class Comment
     {
         public int Id { get; set; }
         public string Title { get; set; } = string.Empty;
@@ -11,6 +11,6 @@ namespace dotnet.Models
         public int? StockId { get; set; }
 
         // Navigational property for the Stock entity
-        public Stocks? Stock { get; set; }
+        public Stock? Stock { get; set; }
     }
 }

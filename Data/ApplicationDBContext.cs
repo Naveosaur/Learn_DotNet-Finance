@@ -11,8 +11,8 @@ namespace dotnet.Data
             
         }
 
-        public DbSet<Stocks> Stocks { get; set; }
-        public DbSet<Comments> Comments { get; set; }
+        public DbSet<Stock> Stock { get; set; }
+        public DbSet<Comment> Comment { get; set; }
         
         
     }
