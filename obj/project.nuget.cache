@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jkcTd/VLvqc=",
+  "dgSpecHash": "4u2ngyxvsYQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\chlom\\Desktop\\Personal\\Example\\dotnet\\dotnet.csproj",
+  "projectFilePath": "C:\\Users\\chlom\\Desktop\\Personal\\Example\\Learn_DotNet-Finance\\dotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chlom\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\chlom\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
